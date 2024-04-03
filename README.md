@@ -1,7 +1,3 @@
-# Hi there! I'm Clémence 👋
-
-I'm a passionate software developer from France, currently pursuing my education at Epitech Lille with an exchange year at Högskolan i Halmstad, Sweden. 
-
 ## About Me ℹ️
 
 - **Name:** Clémence 🇫🇷
