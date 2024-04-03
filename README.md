@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there! I'm Clémence 👋
 
-<!--
-**ClemenceVan/ClemenceVan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer from France, currently pursuing my education at Epitech Lille with an exchange year at Högskolan i Halmstad, Sweden. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Name:** Clémence
+- **From:** France
+- **School:** Epitech Lille, exchange year at Högskolan i Halmstad, Sweden
+- **Favorite Languages:** C, C++, TypeScript
+- **Favorite Technologies:** Embedded Systems, IoT, Backend (API)
+- **Looking for:** Freelancing opportunities
+
+## Get in Touch
+
+Feel free to reach out if you want to collaborate on a project or just chat about technology and software development! I'm always open to new opportunities and connections.
+
