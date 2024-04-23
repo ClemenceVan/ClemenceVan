@@ -1,7 +1,5 @@
 ## About Me ℹ️
 
-- **Name:** Clémence 🇫🇷
-- **From:** France 🏞️
 - **Schools:** 
   - Epitech Lille 🎓
   - Exchange year at Högskolan i Halmstad, Sweden 🇸🇪
